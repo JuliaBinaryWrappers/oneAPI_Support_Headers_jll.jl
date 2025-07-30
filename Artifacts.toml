@@ -1,6 +1,6 @@
 [oneAPI_Support_Headers]
-git-tree-sha1 = "04fd46500e9fb47542d178b258491e3b5588ee90"
+git-tree-sha1 = "3668c48e989901ea9cc9fb42aed4653df7dcc0a6"
 
     [[oneAPI_Support_Headers.download]]
-    sha256 = "74d4d889405862674805c60aab6858c2db34eb5020fa9528234e6dc854cd422c"
-    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Support_Headers_jll.jl/releases/download/oneAPI_Support_Headers-v2025.1.0+0/oneAPI_Support_Headers.v2025.1.0.any.tar.gz"
+    sha256 = "3ea8107981f672307879542135647f233b0ef72e11e77e7d1053219598511f36"
+    url = "https://github.com/JuliaBinaryWrappers/oneAPI_Support_Headers_jll.jl/releases/download/oneAPI_Support_Headers-v2025.2.0+0/oneAPI_Support_Headers.v2025.2.0.any.tar.gz"
